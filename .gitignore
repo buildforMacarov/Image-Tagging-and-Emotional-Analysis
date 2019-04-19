@@ -1,0 +1,4 @@
+*.PNG
+*.pdf
+venv/
+dataset/
