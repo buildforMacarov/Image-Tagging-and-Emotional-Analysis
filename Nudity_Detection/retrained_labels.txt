@@ -1,2 +1,2 @@
-sfw
-nsfw
+image_acceptable
+Not_Safe
